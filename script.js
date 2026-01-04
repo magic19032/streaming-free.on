@@ -11,3 +11,4 @@ document.querySelector("#PlanningSerie").onclick = function() {
     window.location.href = "Planning.html";
 }
 
+
