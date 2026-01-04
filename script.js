@@ -10,3 +10,4 @@ document.querySelector("#PlanningFilm").onclick = function() {
 document.querySelector("#PlanningSerie").onclick = function() {
     window.location.href = "Planning.html";
 }
+
